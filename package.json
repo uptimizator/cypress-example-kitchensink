@@ -36,7 +36,7 @@
     "cy:version": "cypress version",
     "cy:cache:list": "cypress cache list",
     "cy:run": "cypress run",
-    "cy:run:record": "cypress run --record",
+    "cy:run:record": "cypress run --record --key e175be24-f1e0-41d7-84b3-9798b2273f26",
     "cy:open": "cypress open",
     "local:open": "start-test 8080 cy:open",
     "local:run": "start-test 8080 cy:run",
